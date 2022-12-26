@@ -1,16 +1,31 @@
-### Hi there 👋
+```python
+┌──(jannes㉿root)-[~/devlab]
+└─$ cat lotus04.py
 
-<!--
-**baffocarboni12/baffocarboni12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class jannesabi:
 
-Here are some ideas to get you started:
+    def __info__(self):
+        self.bio = '''
+            I am a young passionate about cybersecurity and IT in general.
+            I mainly program in python.
+            '''
+        self.age = 17
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def  __social__(self):
+        self.thm = "https://tryhackme.com/p/jannes"
+        self.htb = "https://app.hackthebox.com/profile/393184"
+        self.dsc = "jannes#0001"
+    
+    def __dev__(self):
+        self.skills = {
+            "python": "well known",
+            "bash": "known",
+            "c++": "learning...",
+            "php": "learning..."
+        }
+        
+┌──(jannes㉿root)-[~/devlab]
+└─$
+```
+
+
